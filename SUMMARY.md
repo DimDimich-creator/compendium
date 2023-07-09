@@ -22,3 +22,7 @@
 ## Policies
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
+
+## 🕸 Лабораторные работы семестр 2
+
+* [Лабораторная работа 1](laboratornye-raboty-semestr-2/laboratornaya-rabota-1.md)
